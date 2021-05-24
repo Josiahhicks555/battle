@@ -59,7 +59,7 @@ function enemyOption(){
     console.log(enemy)
 }
 
-function enemyBattle(){
+function enemyDamage(){
 head = 50;
 body = 25;
 legs = 10;
@@ -110,7 +110,7 @@ function heroOption(){
 }
 
 
-function heroBattle(){
+function heroDamage(){
     head = 50;
     body = 25;
     legs = 10;
