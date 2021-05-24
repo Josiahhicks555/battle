@@ -1,0 +1,55 @@
+*{
+    background-color: black;
+    color: white;
+    
+}
+
+
+/*Enemy*/
+#enemyHealth {
+    color: red;
+    text-align: right;
+}
+
+#enemyPower {
+    color: red;
+    text-align: right; 
+}
+
+#enemyBlock {
+    color: red;
+    text-align: right;
+}
+
+#enemySheild {
+    color: red;
+    text-align: right;
+}
+
+#enemyAbility {
+    color: red;
+    text-align: right;
+}
+
+
+/*Heros*/
+#heroHealth {
+    text-align: left;
+}
+
+#heroPower {
+    text-align: left;
+}
+
+#heroBlock {
+    text-align: left;
+}
+
+#heroSheild {
+    text-align: left;
+}
+
+#heroAbility {
+    text-align: left;
+}
+
