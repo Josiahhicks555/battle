@@ -67,7 +67,7 @@ arms = 10;
 block = 1;
 dodge = 0;
 var enemyDamage = [head, body, legs, arms, block, dodge];
-random = Math.floor(Math.random() *enemyDamage + 1);
+random = Math.floor(Math.random() *enemyDamage );
 //#endregion
 
 //#region Heros
@@ -118,7 +118,7 @@ function heroBattle(){
     block = 1;
     dodge = 0;
     var heroDamage = [head, body, legs, arms, block, dodge];
-    random = Math.floor(Math.random() *heroDamage + 1)
+    random = Math.floor(Math.random() *heroDamage)
     }
 //#endregion
 
