@@ -123,7 +123,7 @@ function heroBattle(){
 //#endregion
 
 //#region battle 
-if (heroHealth > 0 && enemyHealth > 0) {
+if () {
         
 
 } else {
